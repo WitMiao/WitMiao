@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![WitMiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitMiao&theme=github_dark_dimmed&show_icons=true)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=WitMiao&theme=github_dark_dimmed&show_icons=true"
